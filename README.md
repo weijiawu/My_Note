@@ -2,6 +2,13 @@
 
 &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; This repository mainly is used to record some notes for me. The corresponding blog refer to the [website](http://weijiawu.com.cn/)
 
+
+### **文本检测-EAST**
+
+&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;文本检测系列：分析了EAST算法的一些特点，创新点，网络框架结构等等，并测试训练。
+
+&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;1、**CVPR2017** 2、**Efficient ** 3、**Accurate  **  4、**Scene Text Detector** 
+
 ### **100-Days-Of-ML-Code**
 
 &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;这是一个由Youtuber Siraj Raval发起的**机器学习挑战活动.**
